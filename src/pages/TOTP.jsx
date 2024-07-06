@@ -41,19 +41,19 @@ export default function TOTP() {
     {
       user: 'github',
       service: 'GitHub1',
-      secret: 'PX7ZSMD3ZWTAIPYY',
+      secret: 'PWRZUFYZIBN6B74R',
       token: '-'
     },
     {
       user: 'github2',
-      service: 'GitHub',
-      secret: 'PX7ZSMD3ZWTAIPYZ',
+      service: 'GitHub2',
+      secret: 'QWRZUFYZIBN6B74R',
       token: '-'
     },
     {
       user: 'github3',
-      service: 'GitHub3',
-      secret: 'PX7ZSMD3ZWTAIPYX',
+      service: 'GitHub',
+      secret: 'RWRZUFYZIBN6B74R',
       token: '-'
     },
   ];
